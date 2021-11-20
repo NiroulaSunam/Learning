@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-09-15">
+    <creator>NetworkX 2.6.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="Season" type="long" />
+      <attribute id="1" title="Duration" type="long" />
+      <attribute id="2" title="Summary" type="string" />
+      <attribute id="3" title="Director" type="string" />
+      <attribute id="4" title="Stars" type="double" />
+      <attribute id="5" title="Votes" type="long" />
+      <attribute id="6" title="Episode_Title" type="string" />
+    </attributes>
+    <nodes>
+      <node id="1994" label="1994" />
+      <node id="The One with the Sonogram at the End" label="The One with the Sonogram at the End" />
+      <node id="The One with the Thumb" label="The One with the Thumb" />
+      <node id="The One with George Stephanopoulos" label="The One with George Stephanopoulos" />
+      <node id="The One with the East German Laundry Detergent" label="The One with the East German Laundry Detergent" />
+      <node id="The One with the Butt" label="The One with the Butt" />
+      <node id="The One with the Blackout" label="The One with the Blackout" />
+      <node id="The One Where Nana Dies Twice" label="The One Where Nana Dies Twice" />
+      <node id="The One Where Underdog Gets Away" label="The One Where Underdog Gets Away" />
+      <node id="The One with the Monkey" label="The One with the Monkey" />
+      <node id="Ross finds out his ex-wife is pregnant. Rachel returns her engagement ring to Barry. Monica becomes stressed when her and Ross's parents come to visit." label="Ross finds out his ex-wife is pregnant. Rachel returns her engagement ring to Barry. Monica becomes stressed when her and Ross's parents come to visit." />
+      <node id="Monica becomes irritated when everyone likes her new boyfriend more than she does. Chandler resumes his smoking habit. Phoebe is given $7000 when she finds a thumb in a can of soda." label="Monica becomes irritated when everyone likes her new boyfriend more than she does. Chandler resumes his smoking habit. Phoebe is given $7000 when she finds a thumb in a can of soda." />
+      <node id="Joey and Chandler take Ross to a hockey game to take his mind off the anniversary of the first time he slept with Carol, while the girls become depressed when they realize they don't have a 'plan'." label="Joey and Chandler take Ross to a hockey game to take his mind off the anniversary of the first time he slept with Carol, while the girls become depressed when they realize they don't have a 'plan'." />
+      <node id="Eager to spend time with Rachel, Ross pretends his washroom is rat-infested so he can join her at the laundromat. Meanwhile, Joey has Monica pose as his girlfriend, and Chandler struggles to break up with his girlfriend." label="Eager to spend time with Rachel, Ross pretends his washroom is rat-infested so he can join her at the laundromat. Meanwhile, Joey has Monica pose as his girlfriend, and Chandler struggles to break up with his girlfriend." />
+      <node id="Monica's obsessiveness is put to the test after Rachel cleans the apartment. Joey lands a film role as Al Pacino's butt double. Chandler enjoys a relationship with all of the fun but none of the responsibility." label="Monica's obsessiveness is put to the test after Rachel cleans the apartment. Joey lands a film role as Al Pacino's butt double. Chandler enjoys a relationship with all of the fun but none of the responsibility." />
+      <node id="When New York suffers from a blackout, Ross tries to tell Rachel that he likes her, and Chandler gets stuck in an ATM vestibule with a model." label="When New York suffers from a blackout, Ross tries to tell Rachel that he likes her, and Chandler gets stuck in an ATM vestibule with a model." />
+      <node id="Monica and Ross mourn the loss of their grandmother. Chandler is shocked to find that people think he is gay." label="Monica and Ross mourn the loss of their grandmother. Chandler is shocked to find that people think he is gay." />
+      <node id="The gang's plans for Thanksgiving go awry after they get locked out of Monica and Rachel's apartment." label="The gang's plans for Thanksgiving go awry after they get locked out of Monica and Rachel's apartment." />
+      <node id="The gang make (and break) a pact not to bring dates to their New Years Eve party. Phoebe starts dating a scientist. Ross compensates for his loneliness by getting a monkey." label="The gang make (and break) a pact not to bring dates to their New Years Eve party. Phoebe starts dating a scientist. Ross compensates for his loneliness by getting a monkey." />
+    </nodes>
+    <edges>
+      <edge source="1994" target="The One with the Sonogram at the End" id="0">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross finds out his ex-wife is pregnant. Rachel returns her engagement ring to Barry. Monica becomes stressed when her and Ross's parents come to visit." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4888" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with the Thumb" id="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica becomes irritated when everyone likes her new boyfriend more than she does. Chandler resumes his smoking habit. Phoebe is given $7000 when she finds a thumb in a can of soda." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="4605" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with George Stephanopoulos" id="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey and Chandler take Ross to a hockey game to take his mind off the anniversary of the first time he slept with Carol, while the girls become depressed when they realize they don't have a 'plan'." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4468" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with the East German Laundry Detergent" id="3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Eager to spend time with Rachel, Ross pretends his washroom is rat-infested so he can join her at the laundromat. Meanwhile, Joey has Monica pose as his girlfriend, and Chandler struggles to break up with his girlfriend." />
+          <attvalue for="3" value="Pamela Fryman" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="4438" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with the Butt" id="4">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica's obsessiveness is put to the test after Rachel cleans the apartment. Joey lands a film role as Al Pacino's butt double. Chandler enjoys a relationship with all of the fun but none of the responsibility." />
+          <attvalue for="3" value="Arlene Sanford" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4274" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with the Blackout" id="5">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="When New York suffers from a blackout, Ross tries to tell Rachel that he likes her, and Chandler gets stuck in an ATM vestibule with a model." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="9.0" />
+          <attvalue for="5" value="5469" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One Where Nana Dies Twice" id="6">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica and Ross mourn the loss of their grandmother. Chandler is shocked to find that people think he is gay." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4156" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One Where Underdog Gets Away" id="7">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang's plans for Thanksgiving go awry after they get locked out of Monica and Rachel's apartment." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="4038" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with the Monkey" id="8">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang make (and break) a pact not to bring dates to their New Years Eve party. Phoebe starts dating a scientist. Ross compensates for his loneliness by getting a monkey." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4064" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="Ross finds out his ex-wife is pregnant. Rachel returns her engagement ring to Barry. Monica becomes stressed when her and Ross's parents come to visit." id="9">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="6" value="The One with the Sonogram at the End" />
+          <attvalue for="1" value="22" />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4888" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="Monica becomes irritated when everyone likes her new boyfriend more than she does. Chandler resumes his smoking habit. Phoebe is given $7000 when she finds a thumb in a can of soda." id="10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="6" value="The One with the Thumb" />
+          <attvalue for="1" value="22" />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="4605" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="Joey and Chandler take Ross to a hockey game to take his mind off the anniversary of the first time he slept with Carol, while the girls become depressed when they realize they don't have a 'plan'." id="11">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="6" value="The One with George Stephanopoulos" />
+          <attvalue for="1" value="22" />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4468" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="Eager to spend time with Rachel, Ross pretends his washroom is rat-infested so he can join her at the laundromat. Meanwhile, Joey has Monica pose as his girlfriend, and Chandler struggles to break up with his girlfriend." id="12">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="6" value="The One with the East German Laundry Detergent" />
+          <attvalue for="1" value="22" />
+          <attvalue for="3" value="Pamela Fryman" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="4438" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="Monica's obsessiveness is put to the test after Rachel cleans the apartment. Joey lands a film role as Al Pacino's butt double. Chandler enjoys a relationship with all of the fun but none of the responsibility." id="13">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="6" value="The One with the Butt" />
+          <attvalue for="1" value="22" />
+          <attvalue for="3" value="Arlene Sanford" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4274" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="When New York suffers from a blackout, Ross tries to tell Rachel that he likes her, and Chandler gets stuck in an ATM vestibule with a model." id="14">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="6" value="The One with the Blackout" />
+          <attvalue for="1" value="22" />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="9.0" />
+          <attvalue for="5" value="5469" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="Monica and Ross mourn the loss of their grandmother. Chandler is shocked to find that people think he is gay." id="15">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="6" value="The One Where Nana Dies Twice" />
+          <attvalue for="1" value="22" />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4156" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The gang's plans for Thanksgiving go awry after they get locked out of Monica and Rachel's apartment." id="16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="6" value="The One Where Underdog Gets Away" />
+          <attvalue for="1" value="22" />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="4038" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The gang make (and break) a pact not to bring dates to their New Years Eve party. Phoebe starts dating a scientist. Ross compensates for his loneliness by getting a monkey." id="17">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="6" value="The One with the Monkey" />
+          <attvalue for="1" value="22" />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4064" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

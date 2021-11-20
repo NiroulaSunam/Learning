@@ -1,0 +1,2561 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-09-13">
+    <creator>NetworkX 2.6.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="Season" type="long" />
+      <attribute id="1" title="Duration" type="long" />
+      <attribute id="2" title="Summary" type="string" />
+      <attribute id="3" title="Director" type="string" />
+      <attribute id="4" title="Stars" type="double" />
+      <attribute id="5" title="Votes" type="long" />
+    </attributes>
+    <nodes>
+      <node id="1994" label="1994" />
+      <node id="The One with the Sonogram at the End" label="The One with the Sonogram at the End" />
+      <node id="The One with the Thumb" label="The One with the Thumb" />
+      <node id="The One with George Stephanopoulos" label="The One with George Stephanopoulos" />
+      <node id="The One with the East German Laundry Detergent" label="The One with the East German Laundry Detergent" />
+      <node id="The One with the Butt" label="The One with the Butt" />
+      <node id="The One with the Blackout" label="The One with the Blackout" />
+      <node id="The One Where Nana Dies Twice" label="The One Where Nana Dies Twice" />
+      <node id="The One Where Underdog Gets Away" label="The One Where Underdog Gets Away" />
+      <node id="The One with the Monkey" label="The One with the Monkey" />
+      <node id="1995" label="1995" />
+      <node id="The One with Mrs. Bing" label="The One with Mrs. Bing" />
+      <node id="The One with the Dozen Lasagnas" label="The One with the Dozen Lasagnas" />
+      <node id="The One with the Boobies" label="The One with the Boobies" />
+      <node id="The One with the Candy Hearts" label="The One with the Candy Hearts" />
+      <node id="The One with the Stoned Guy" label="The One with the Stoned Guy" />
+      <node id="The One with Two Parts: Part 1" label="The One with Two Parts: Part 1" />
+      <node id="The One with Two Parts: Part 2" label="The One with Two Parts: Part 2" />
+      <node id="The One with All the Poker" label="The One with All the Poker" />
+      <node id="The One Where the Monkey Gets Away" label="The One Where the Monkey Gets Away" />
+      <node id="The One with the Evil Orthodontist" label="The One with the Evil Orthodontist" />
+      <node id="The One with the Fake Monica" label="The One with the Fake Monica" />
+      <node id="The One with the Ick Factor" label="The One with the Ick Factor" />
+      <node id="The One with the Birth" label="The One with the Birth" />
+      <node id="The One Where Rachel Finds Out" label="The One Where Rachel Finds Out" />
+      <node id="The One with Ross's New Girlfriend" label="The One with Ross's New Girlfriend" />
+      <node id="The One with the Breast Milk" label="The One with the Breast Milk" />
+      <node id="The One Where Heckles Dies" label="The One Where Heckles Dies" />
+      <node id="The One with Phoebe's Husband" label="The One with Phoebe's Husband" />
+      <node id="The One with Five Steaks and an Eggplant" label="The One with Five Steaks and an Eggplant" />
+      <node id="The One with the Baby on the Bus" label="The One with the Baby on the Bus" />
+      <node id="The One Where Ross Finds Out" label="The One Where Ross Finds Out" />
+      <node id="The One with the List" label="The One with the List" />
+      <node id="The One with Phoebe's Dad" label="The One with Phoebe's Dad" />
+      <node id="1996" label="1996" />
+      <node id="The One with Russ" label="The One with Russ" />
+      <node id="The One with the Lesbian Wedding" label="The One with the Lesbian Wedding" />
+      <node id="The One After the Superbowl: Part 1" label="The One After the Superbowl: Part 1" />
+      <node id="The One After the Superbowl: Part 2" label="The One After the Superbowl: Part 2" />
+      <node id="The One with the Prom Video" label="The One with the Prom Video" />
+      <node id="The One Where Ross and Rachel... You Know" label="The One Where Ross and Rachel... You Know" />
+      <node id="The One Where Joey Moves Out" label="The One Where Joey Moves Out" />
+      <node id="The One Where Eddie Moves In" label="The One Where Eddie Moves In" />
+      <node id="The One Where Dr. Ramoray Dies" label="The One Where Dr. Ramoray Dies" />
+      <node id="The One Where Eddie Won't Go" label="The One Where Eddie Won't Go" />
+      <node id="The One Where Old Yeller Dies" label="The One Where Old Yeller Dies" />
+      <node id="The One with the Bullies" label="The One with the Bullies" />
+      <node id="The One with the Two Parties" label="The One with the Two Parties" />
+      <node id="The One with the Chicken Pox" label="The One with the Chicken Pox" />
+      <node id="The One with Barry and Mindy's Wedding" label="The One with Barry and Mindy's Wedding" />
+      <node id="The One with the Princess Leia Fantasy" label="The One with the Princess Leia Fantasy" />
+      <node id="The One Where No One's Ready" label="The One Where No One's Ready" />
+      <node id="The One with the Jam" label="The One with the Jam" />
+      <node id="The One with the Metaphorical Tunnel" label="The One with the Metaphorical Tunnel" />
+      <node id="The One with Frank Jr." label="The One with Frank Jr." />
+      <node id="The One with the Flashback" label="The One with the Flashback" />
+      <node id="The One with the Race Car Bed" label="The One with the Race Car Bed" />
+      <node id="The One with the Giant Poking Device" label="The One with the Giant Poking Device" />
+      <node id="The One with the Football" label="The One with the Football" />
+      <node id="The One Where Rachel Quits" label="The One Where Rachel Quits" />
+      <node id="1997" label="1997" />
+      <node id="The One Where Chandler Can't Remember Which Sister" label="The One Where Chandler Can't Remember Which Sister" />
+      <node id="The One with All the Jealousy" label="The One with All the Jealousy" />
+      <node id="The One Where Monica and Richard Are Just Friends" label="The One Where Monica and Richard Are Just Friends" />
+      <node id="The One with Phoebe's Ex-Partner" label="The One with Phoebe's Ex-Partner" />
+      <node id="The One Where Ross and Rachel Take a Break" label="The One Where Ross and Rachel Take a Break" />
+      <node id="The One with the Morning After" label="The One with the Morning After" />
+      <node id="The One Without the Ski Trip" label="The One Without the Ski Trip" />
+      <node id="The One with the Hypnosis Tape" label="The One with the Hypnosis Tape" />
+      <node id="The One with the Tiny T-Shirt" label="The One with the Tiny T-Shirt" />
+      <node id="The One with the Dollhouse" label="The One with the Dollhouse" />
+      <node id="The One with the Chick and the Duck" label="The One with the Chick and the Duck" />
+      <node id="The One with the Screamer" label="The One with the Screamer" />
+      <node id="The One with Ross's Thing" label="The One with Ross's Thing" />
+      <node id="The One with the Ultimate Fighting Champion" label="The One with the Ultimate Fighting Champion" />
+      <node id="The One at the Beach" label="The One at the Beach" />
+      <node id="The One with the Jellyfish" label="The One with the Jellyfish" />
+      <node id="The One with the Cat" label="The One with the Cat" />
+      <node id="The One with the 'Cuffs" label="The One with the 'Cuffs" />
+      <node id="The One with the Ballroom Dancing" label="The One with the Ballroom Dancing" />
+      <node id="The One with Joey's New Girlfriend" label="The One with Joey's New Girlfriend" />
+      <node id="The One with the Dirty Girl" label="The One with the Dirty Girl" />
+      <node id="The One Where Chandler Crosses the Line" label="The One Where Chandler Crosses the Line" />
+      <node id="The One with Chandler in a Box" label="The One with Chandler in a Box" />
+      <node id="The One Where They're Going to Party!" label="The One Where They're Going to Party!" />
+      <node id="The One with the Girl from Poughkeepsie" label="The One with the Girl from Poughkeepsie" />
+      <node id="1998" label="1998" />
+      <node id="The One with Phoebe's Uterus" label="The One with Phoebe's Uterus" />
+      <node id="The One with the Embryos" label="The One with the Embryos" />
+      <node id="The One with Rachel's Crush" label="The One with Rachel's Crush" />
+      <node id="The One with Joey's Dirty Day" label="The One with Joey's Dirty Day" />
+      <node id="The One with All the Rugby" label="The One with All the Rugby" />
+      <node id="The One with the Fake Party" label="The One with the Fake Party" />
+      <node id="The One with the Free Porn" label="The One with the Free Porn" />
+      <node id="The One with Rachel's New Dress" label="The One with Rachel's New Dress" />
+      <node id="The One with All the Haste" label="The One with All the Haste" />
+      <node id="The One with All the Wedding Dresses" label="The One with All the Wedding Dresses" />
+      <node id="The One with the Invitation" label="The One with the Invitation" />
+      <node id="The One with the Worst Best Man Ever" label="The One with the Worst Best Man Ever" />
+      <node id="The One with Ross's Wedding" label="The One with Ross's Wedding" />
+      <node id="The One After Ross Says Rachel" label="The One After Ross Says Rachel" />
+      <node id="The One with All the Kissing" label="The One with All the Kissing" />
+      <node id="The One Hundredth" label="The One Hundredth" />
+      <node id="The One Where Phoebe Hates PBS" label="The One Where Phoebe Hates PBS" />
+      <node id="The One with the Kips" label="The One with the Kips" />
+      <node id="The One with the Yeti" label="The One with the Yeti" />
+      <node id="The One Where Ross Moves In" label="The One Where Ross Moves In" />
+      <node id="The One with All the Thanksgivings" label="The One with All the Thanksgivings" />
+      <node id="The One with Ross's Sandwich" label="The One with Ross's Sandwich" />
+      <node id="The One with the Inappropriate Sister" label="The One with the Inappropriate Sister" />
+      <node id="1999" label="1999" />
+      <node id="The One with All the Resolutions" label="The One with All the Resolutions" />
+      <node id="The One with Chandler's Work Laugh" label="The One with Chandler's Work Laugh" />
+      <node id="The One with Joey's Bag" label="The One with Joey's Bag" />
+      <node id="The One Where Everybody Finds Out" label="The One Where Everybody Finds Out" />
+      <node id="The One with the Girl Who Hits Joey" label="The One with the Girl Who Hits Joey" />
+      <node id="The One with the Cop" label="The One with the Cop" />
+      <node id="The One with Rachel's Inadvertent Kiss" label="The One with Rachel's Inadvertent Kiss" />
+      <node id="The One Where Rachel Smokes" label="The One Where Rachel Smokes" />
+      <node id="The One Where Ross Can't Flirt" label="The One Where Ross Can't Flirt" />
+      <node id="The One with the Ride Along" label="The One with the Ride Along" />
+      <node id="The One with the Ball" label="The One with the Ball" />
+      <node id="The One with Joey's Big Break" label="The One with Joey's Big Break" />
+      <node id="The One in Vegas: Part 1" label="The One in Vegas: Part 1" />
+      <node id="The One in Vegas: Part 2" label="The One in Vegas: Part 2" />
+      <node id="The One After Vegas" label="The One After Vegas" />
+      <node id="The One Where Ross Hugs Rachel" label="The One Where Ross Hugs Rachel" />
+      <node id="The One with Ross's Denial" label="The One with Ross's Denial" />
+      <node id="The One Where Joey Loses His Insurance" label="The One Where Joey Loses His Insurance" />
+      <node id="The One with Joey's Porsche" label="The One with Joey's Porsche" />
+      <node id="The One on the Last Night" label="The One on the Last Night" />
+      <node id="The One Where Phoebe Runs" label="The One Where Phoebe Runs" />
+      <node id="The One with Ross' Teeth" label="The One with Ross' Teeth" />
+      <node id="The One Where Ross Got High" label="The One Where Ross Got High" />
+      <node id="The One with the Routine" label="The One with the Routine" />
+      <node id="2000" label="2000" />
+      <node id="The One with the Apothecary Table" label="The One with the Apothecary Table" />
+      <node id="The One with the Joke" label="The One with the Joke" />
+      <node id="The One with Rachel's Sister" label="The One with Rachel's Sister" />
+      <node id="The One Where Chandler Can't Cry" label="The One Where Chandler Can't Cry" />
+      <node id="The One That Could Have Been" label="The One That Could Have Been" />
+      <node id="The One with Unagi" label="The One with Unagi" />
+      <node id="The One Where Ross Dates a Student" label="The One Where Ross Dates a Student" />
+      <node id="The One with Joey's Fridge" label="The One with Joey's Fridge" />
+      <node id="The One with Mac and C.H.E.E.S.E." label="The One with Mac and C.H.E.E.S.E." />
+      <node id="The One Where Ross Meets Elizabeth's Dad" label="The One Where Ross Meets Elizabeth's Dad" />
+      <node id="The One Where Paul's the Man" label="The One Where Paul's the Man" />
+      <node id="The One with the Ring" label="The One with the Ring" />
+      <node id="The One with the Proposal" label="The One with the Proposal" />
+      <node id="The One with Monica's Thunder" label="The One with Monica's Thunder" />
+      <node id="The One with Rachel's Book" label="The One with Rachel's Book" />
+      <node id="The One with Phoebe's Cookies" label="The One with Phoebe's Cookies" />
+      <node id="The One with Rachel's Assistant" label="The One with Rachel's Assistant" />
+      <node id="The One with the Engagement Picture" label="The One with the Engagement Picture" />
+      <node id="The One with the Nap Partners" label="The One with the Nap Partners" />
+      <node id="The One with Ross's Library Book" label="The One with Ross's Library Book" />
+      <node id="The One Where Chandler Doesn't Like Dogs" label="The One Where Chandler Doesn't Like Dogs" />
+      <node id="The One with All the Candy" label="The One with All the Candy" />
+      <node id="The One with the Holiday Armadillo" label="The One with the Holiday Armadillo" />
+      <node id="2001" label="2001" />
+      <node id="The One with All the Cheesecakes" label="The One with All the Cheesecakes" />
+      <node id="The One Where They're Up All Night" label="The One Where They're Up All Night" />
+      <node id="The One Where Rosita Dies" label="The One Where Rosita Dies" />
+      <node id="The One Where They All Turn Thirty" label="The One Where They All Turn Thirty" />
+      <node id="The One with Joey's New Brain" label="The One with Joey's New Brain" />
+      <node id="The One with the Truth About London" label="The One with the Truth About London" />
+      <node id="The One with the Cheap Wedding Dress" label="The One with the Cheap Wedding Dress" />
+      <node id="The One with Joey's Award" label="The One with Joey's Award" />
+      <node id="The One with Ross and Monica's Cousin" label="The One with Ross and Monica's Cousin" />
+      <node id="The One with Rachel's Big Kiss" label="The One with Rachel's Big Kiss" />
+      <node id="The One with the Vows" label="The One with the Vows" />
+      <node id="The One with Chandler's Dad" label="The One with Chandler's Dad" />
+      <node id="The One with Monica and Chandler's Wedding: Part 1" label="The One with Monica and Chandler's Wedding: Part 1" />
+      <node id="The One with Monica and Chandler's Wedding: Part 2" label="The One with Monica and Chandler's Wedding: Part 2" />
+      <node id="The One After I Do" label="The One After I Do" />
+      <node id="The One with the Red Sweater" label="The One with the Red Sweater" />
+      <node id="The One Where Rachel Tells..." label="The One Where Rachel Tells..." />
+      <node id="The One with the Videotape" label="The One with the Videotape" />
+      <node id="The One with Rachel's Date" label="The One with Rachel's Date" />
+      <node id="The One with the Halloween Party" label="The One with the Halloween Party" />
+      <node id="The One with the Stain" label="The One with the Stain" />
+      <node id="The One with the Stripper" label="The One with the Stripper" />
+      <node id="The One with the Rumor" label="The One with the Rumor" />
+      <node id="The One with Monica's Boots" label="The One with Monica's Boots" />
+      <node id="The One with Ross's Step Forward" label="The One with Ross's Step Forward" />
+      <node id="2002" label="2002" />
+      <node id="The One Where Joey Dates Rachel" label="The One Where Joey Dates Rachel" />
+      <node id="The One Where Chandler Takes a Bath" label="The One Where Chandler Takes a Bath" />
+      <node id="The One with the Secret Closet" label="The One with the Secret Closet" />
+      <node id="The One with the Birthing Video" label="The One with the Birthing Video" />
+      <node id="The One Where Joey Tells Rachel" label="The One Where Joey Tells Rachel" />
+      <node id="The One with the Tea Leaves" label="The One with the Tea Leaves" />
+      <node id="The One in Massapequa" label="The One in Massapequa" />
+      <node id="The One with Joey's Interview" label="The One with Joey's Interview" />
+      <node id="The One with the Baby Shower" label="The One with the Baby Shower" />
+      <node id="The One with the Cooking Class" label="The One with the Cooking Class" />
+      <node id="The One Where Rachel Is Late" label="The One Where Rachel Is Late" />
+      <node id="The One Where Rachel Has a Baby: Part 1" label="The One Where Rachel Has a Baby: Part 1" />
+      <node id="The One Where Rachel Has a Baby: Part 2" label="The One Where Rachel Has a Baby: Part 2" />
+      <node id="The One Where No One Proposes" label="The One Where No One Proposes" />
+      <node id="The One Where Emma Cries" label="The One Where Emma Cries" />
+      <node id="The One with the Pediatrician" label="The One with the Pediatrician" />
+      <node id="The One with the Sharks" label="The One with the Sharks" />
+      <node id="The One with Phoebe's Birthday Dinner" label="The One with Phoebe's Birthday Dinner" />
+      <node id="The One with the Male Nanny" label="The One with the Male Nanny" />
+      <node id="The One with Ross's Inappropriate Song" label="The One with Ross's Inappropriate Song" />
+      <node id="The One with Rachel's Other Sister" label="The One with Rachel's Other Sister" />
+      <node id="The One with Rachel's Phone Number" label="The One with Rachel's Phone Number" />
+      <node id="The One with Christmas in Tulsa" label="The One with Christmas in Tulsa" />
+      <node id="2003" label="2003" />
+      <node id="The One Where Rachel Goes Back to Work" label="The One Where Rachel Goes Back to Work" />
+      <node id="The One with Phoebe's Rats" label="The One with Phoebe's Rats" />
+      <node id="The One Where Monica Sings" label="The One Where Monica Sings" />
+      <node id="The One with the Blind Dates" label="The One with the Blind Dates" />
+      <node id="The One with the Mugging" label="The One with the Mugging" />
+      <node id="The One with the Boob Job" label="The One with the Boob Job" />
+      <node id="The One with the Memorial Service" label="The One with the Memorial Service" />
+      <node id="The One with the Lottery" label="The One with the Lottery" />
+      <node id="The One with Rachel's Dream" label="The One with Rachel's Dream" />
+      <node id="The One with the Soap Opera Party" label="The One with the Soap Opera Party" />
+      <node id="The One with the Fertility Test" label="The One with the Fertility Test" />
+      <node id="The One with the Donor" label="The One with the Donor" />
+      <node id="The One in Barbados" label="The One in Barbados" />
+      <node id="The One After Joey and Rachel Kiss" label="The One After Joey and Rachel Kiss" />
+      <node id="The One Where Ross Is Fine" label="The One Where Ross Is Fine" />
+      <node id="The One with Ross's Tan" label="The One with Ross's Tan" />
+      <node id="The One with the Cake" label="The One with the Cake" />
+      <node id="The One Where Rachel's Sister Babysits" label="The One Where Rachel's Sister Babysits" />
+      <node id="The One with Ross' Grant" label="The One with Ross' Grant" />
+      <node id="The One with the Home Study" label="The One with the Home Study" />
+      <node id="The One with the Late Thanksgiving" label="The One with the Late Thanksgiving" />
+      <node id="2004" label="2004" />
+      <node id="The One with the Birth Mother" label="The One with the Birth Mother" />
+      <node id="The One Where Chandler Gets Caught" label="The One Where Chandler Gets Caught" />
+      <node id="The One Where the Stripper Cries" label="The One Where the Stripper Cries" />
+      <node id="The One with Phoebe's Wedding" label="The One with Phoebe's Wedding" />
+      <node id="The One Where Joey Speaks French" label="The One Where Joey Speaks French" />
+      <node id="The One with Princess Consuela" label="The One with Princess Consuela" />
+      <node id="The One Where Estelle Dies" label="The One Where Estelle Dies" />
+      <node id="The One with Rachel's Going Away Party" label="The One with Rachel's Going Away Party" />
+      <node id="The Last One" label="The Last One" />
+    </nodes>
+    <edges>
+      <edge source="1994" target="The One with the Sonogram at the End" id="0">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross finds out his ex-wife is pregnant. Rachel returns her engagement ring to Barry. Monica becomes stressed when her and Ross's parents come to visit." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4888" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with the Thumb" id="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica becomes irritated when everyone likes her new boyfriend more than she does. Chandler resumes his smoking habit. Phoebe is given $7000 when she finds a thumb in a can of soda." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="4605" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with George Stephanopoulos" id="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey and Chandler take Ross to a hockey game to take his mind off the anniversary of the first time he slept with Carol, while the girls become depressed when they realize they don't have a 'plan'." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4468" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with the East German Laundry Detergent" id="3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Eager to spend time with Rachel, Ross pretends his washroom is rat-infested so he can join her at the laundromat. Meanwhile, Joey has Monica pose as his girlfriend, and Chandler struggles to break up with his girlfriend." />
+          <attvalue for="3" value="Pamela Fryman" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="4438" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with the Butt" id="4">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica's obsessiveness is put to the test after Rachel cleans the apartment. Joey lands a film role as Al Pacino's butt double. Chandler enjoys a relationship with all of the fun but none of the responsibility." />
+          <attvalue for="3" value="Arlene Sanford" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4274" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with the Blackout" id="5">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="When New York suffers from a blackout, Ross tries to tell Rachel that he likes her, and Chandler gets stuck in an ATM vestibule with a model." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="9.0" />
+          <attvalue for="5" value="5469" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One Where Nana Dies Twice" id="6">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica and Ross mourn the loss of their grandmother. Chandler is shocked to find that people think he is gay." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4156" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One Where Underdog Gets Away" id="7">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang's plans for Thanksgiving go awry after they get locked out of Monica and Rachel's apartment." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="4038" />
+        </attvalues>
+      </edge>
+      <edge source="1994" target="The One with the Monkey" id="8">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang make (and break) a pact not to bring dates to their New Years Eve party. Phoebe starts dating a scientist. Ross compensates for his loneliness by getting a monkey." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="4064" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with Mrs. Bing" id="9">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler's flamboyant romance-novelist mother comes to visit, and Joey catches her kissing Ross. Meanwhile, Monica and Phoebe fight over a guy in a coma." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3996" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with the Dozen Lasagnas" id="10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel and Paolo's relationship hits a snag when he makes a pss at Phoebe. Ross refuses to find out the sex of his baby until it's born. Chandler and Joey go shopping for a new kitchen table." />
+          <attvalue for="3" value="Paul Lazarus" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3926" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with the Boobies" id="11">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey finds out his dad has a mistress. Rachel tries to even the score after Chandler inadvertently catches a glimpse of her breasts. Phoebe dates a shrink who analyzes the gang." />
+          <attvalue for="3" value="Alan Myerson" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="4172" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with the Candy Hearts" id="12">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="As Valentine's Day approaches; Ross and his date end up at the same restaurant as Carol and Susan, Joey inadvertently sets Chandler up on a blind date with Janice, and the girls burn mementos of their old boyfriends." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="3866" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with the Stoned Guy" id="13">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica cooks a gourmet meal for a restaurateur who is looking for a new chef, however he arrives at the apartment stoned. Meanwhile, Ross tries to master 'dirty talk'." />
+          <attvalue for="3" value="Alan Myerson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3915" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with Two Parts: Part 1" id="14">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe feels neglected when Joey falls for her twin sister. Chandler struggles to fire an attractive co-worker. Ross attends Lamaze classes with Carol and Susan." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3834" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with Two Parts: Part 2" id="15">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel switches identities with Monica so she can use her health insurance. Meanwhile, Ursula continues to come between Phoebe and Joey." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3883" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with All the Poker" id="16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="As Rachel interviews for a new job, the girls take on the guys in a game of poker." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.8" />
+          <attvalue for="5" value="4340" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One Where the Monkey Gets Away" id="17">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang frantically search for Ross's monkey Marcel after Rachel loses him." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3734" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with the Evil Orthodontist" id="18">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel and Barry start dating again, despite the fact that he's now engaged to Mindy; Chandler goes nuts when a woman he likes won't return his phone calls." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="7.9" />
+          <attvalue for="5" value="3736" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with the Fake Monica" id="19">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica befriends the woman who stole her credit card. Ross is forced to give away Marcel. Joey tries to come up with a less ethnic-sounding stage name." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="7.9" />
+          <attvalue for="5" value="3769" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with the Ick Factor" id="20">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica gets a shock when she finds out her boyfriend is a high school student. Chandler finds out his colleagues don't like him when Phoebe temps as his secretary." />
+          <attvalue for="3" value="Robby Benson" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="3720" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with the Birth" id="21">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="As Carol goes into labor; Ross and Susan argue, Rachel flirts with Carol's doctor, and Joey assists a pregnant single mother." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="3919" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One Where Rachel Finds Out" id="22">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="As Ross leaves for China, Chandler accidentally reveals Ross's feelings for Rachel. Joey takes part in a fertility study and is unable to sleep with his new girlfriend." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.9" />
+          <attvalue for="5" value="4187" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with Ross's New Girlfriend" id="23">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel waits for Ross at the airport, unaware he has a new girlfriend. Meanwhile, Chandler has a frightening experience with Joey's tailor, and Phoebe gives Monica a bad haircut." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3814" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with the Breast Milk" id="24">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica goes shopping with Julie and tries to keep it a secret from Rachel. Ross is grossed out by Carol's breast milk. At his day job, Joey competes with a fellow cologne spritzer." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3669" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One Where Heckles Dies" id="25">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="After Mr. Heckles dies and leaves all his belongings to Monica and Rachel, Chandler worries he will die alone just like him. Meanwhile, Phoebe and Ross argue over evolution." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="3676" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with Phoebe's Husband" id="26">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="When the gang find out Phoebe married a gay Canadian ice dancer for a green card, more of their secrets are revealed. Meanwhile, Rachel gives Ross bad advice on his relationship with Julie." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.0" />
+          <attvalue for="5" value="3555" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with Five Steaks and an Eggplant" id="27">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang are divided by income issues; Monica, Ross and Chandler have money, and Rachel, Phoebe and Joey don't." />
+          <attvalue for="3" value="Ellen Gittelsohn" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="3550" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with the Baby on the Bus" id="28">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey and Chandler are left to babysit Ben when Monica takes Ross to the hospital. Meanwhile, Phoebe loses her singing gig at Central Perk to a professional singer." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="3822" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One Where Ross Finds Out" id="29">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="A drunken Rachel calls Ross and reveals her feelings for him on his answering machine. Meanwhile, Monica keeps busy by being Chandler's personal trainer and Phoebe constantly wonders why her current boyfriend won't sleep with her." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="9.0" />
+          <attvalue for="5" value="4319" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with the List" id="30">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="With help from Chandler and Joey, Ross makes a list of pros and cons to decide whether to be with Julie or Rachel. Meanwhile, Monica gets a job making dessert with a disgusting synthetic chocolate substitute." />
+          <attvalue for="3" value="Mary Kay Place" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3581" />
+        </attvalues>
+      </edge>
+      <edge source="1995" target="The One with Phoebe's Dad" id="31">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe tracks down her father, but isn't sure whether she should meet him. Ross asks Rachel to make a list of pros and cons about him." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.0" />
+          <attvalue for="5" value="3444" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with Russ" id="32">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica gets back together with 'Fun Bobby' and realizes why he is always so upbeat. Rachel starts dating a guy called Russ who bears an uncanny resemblance to Ross." />
+          <attvalue for="3" value="Thomas Schlamme" />
+          <attvalue for="4" value="8.0" />
+          <attvalue for="5" value="3591" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Lesbian Wedding" id="33">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel's mom comes to visit with big news. Monica caters Carol and Susan's wedding. Phoebe becomes 'possessed' by the spirit of a recently deceased client." />
+          <attvalue for="3" value="Thomas Schlamme" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3524" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One After the Superbowl: Part 1" id="34">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross goes to visit Marcel whilst on a trip to California and discovers he is working in commercials. Joey receives a fan letter from an attractive but unstable woman. Phoebe is asked to sing for children at a library." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="3723" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One After the Superbowl: Part 2" id="35">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross finds Marcel on the set of a new movie, where Chandler bumps into a former schoolmate. Meanwhile, Rachel and Monica compete for the affections of Jean-Claude Van Damme." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.8" />
+          <attvalue for="5" value="3864" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Prom Video" id="36">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang watches a home video from the night of Monica and Rachel's prom. Joey gives Chandler a hideous bracelet." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="9.4" />
+          <attvalue for="5" value="5736" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One Where Ross and Rachel... You Know" id="37">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica becomes infatuated with a friend of her parents when she caters a party for him. Ross and Rachel go on their first date. Joey and Chandler refuse to move when they get a new TV and two armchairs." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.9" />
+          <attvalue for="5" value="3928" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One Where Joey Moves Out" id="38">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey and Chandler's friendship is jeopardized when Joey decides to move out. Monica worries about her parents finding out about her relationship with Richard when they attend a party together. Rachel and Phoebe go to get tattoos." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="3435" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One Where Eddie Moves In" id="39">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler gets a new roommate. Phoebe gets the chance to make a music video for her song &quot;Smelly Cat&quot;. Ross and Monica clash when he is always at her and Rachel's apartment." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="3407" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One Where Dr. Ramoray Dies" id="40">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey's soap opera character is killed off after he brags in an interview that he writes his own lines. Chandler is unnerved by Eddie's strange behavior, while Ross and Rachel compare their past lovers as do Richard and Monica." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3403" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One Where Eddie Won't Go" id="41">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler demands that Eddie move out; however, he doesn't seem to get the message. Meanwhile, a book on empowerment for women inspires the girls. In order to pay his bills, Ross convinces Joey to audition for a role he doesn't want." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="3495" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One Where Old Yeller Dies" id="42">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe's world view is shattered when she learns how Old Yeller really ends. Monica becomes jealous when Richard starts hanging out with Chandler and Joey. Rachel panics when she learns that Ross has planned their whole life together." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3295" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Bullies" id="43">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler and Ross run into two bullies at Central Perk. Monica tries her luck at the stock market to avoid taking a job at a 1950s themed diner. Phoebe drives upstate for a second time to meet her father while Joey and Rachel accompany her." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3337" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Two Parties" id="44">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chaos ensues when Rachel's recently divorced parents show up at her surprise birthday party, so the gang has to find ways to keep her parents separated otherwise they'll start fighting." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="9.0" />
+          <attvalue for="5" value="4151" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Chicken Pox" id="45">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe catches chicken pox just as an old flame arrives in town on leave from the Navy. Joey gets a job at Chandler's office. Monica is upset that Richard doesn't have any quirks." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3360" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with Barry and Mindy's Wedding" id="46">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel reluctantly agrees to be maid of honor at her ex-fiancé Barry's wedding. Monica ponders her future with Richard. Joey has to practice kissing guys to get a role in Warren Beatty's new movie but Ross and Chandler are unwilling to help him." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3335" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Princess Leia Fantasy" id="47">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica suffers from insomnia and depression following her breakup with Richard. Joey struggles to accept Chandler and Janice's relationship. Ross confides in Rachel about one of his fantasies." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="3482" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One Where No One's Ready" id="48">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="A stressed Ross desperately and insistently tries to get the rest of the gang ready for a black tie event at the museum, while Joey and Chandler clash over personal belongings and personal space." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="9.0" />
+          <attvalue for="5" value="4637" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Jam" id="49">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica tries to get over Richard by using her free time to make jam and considers artificial insemination through a sperm bank. Phoebe is stalked by a man who mistakes her for Ursula." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3324" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Metaphorical Tunnel" id="50">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler tries to get over his fear of commitment. Phoebe poses as Joey's agent after she forgets to tell him about an audition. Ross panics after seeing Ben play with a Barbie doll and tries to convince him to play with more manly toys." />
+          <attvalue for="3" value="Steve Zuckerman" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3199" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with Frank Jr." id="51">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe has trouble bonding with her half-brother Frank when he comes to visit. Joey attempts to build an entertainment center. Ross is challenged to name the five celebrities he'd like to sleep with most." />
+          <attvalue for="3" value="Steve Zuckerman" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3292" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Flashback" id="52">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang remember the events three years ago, when several of them almost slept together." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="9.1" />
+          <attvalue for="5" value="4291" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Race Car Bed" id="53">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey becomes a learning extension teacher in soap acting, and loves the respect from even more clueless kids. Monica chooses a ridiculously cheap bed from Janice's ex; Phoebe signs for her ...                See full summary »" />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="3238" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Giant Poking Device" id="54">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler is devastated after Joey tells him he saw Janice kissing her ex-husband. Monica accidentally bumps Ben's head into a post when she and Rachel babysit. Phoebe is paranoid if she goes to dentist someone she knows will die." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="3258" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One with the Football" id="55">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Old sibling rivalry between Monica and Ross resurfaces and postpones Thanksgiving dinner when the gang decide to play a game of &quot;touch&quot; football." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="9.0" />
+          <attvalue for="5" value="4588" />
+        </attvalues>
+      </edge>
+      <edge source="1996" target="The One Where Rachel Quits" id="56">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross accidentally breaks a little girl's leg and tries to help her sell boxes of cookies which recreates Monica's childhood fixation. Rachel quits her job at Central Perk and Joey's Christmas tree selling conflicts with Phoebe's principles." />
+          <attvalue for="3" value="Terry Hughes" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3268" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One Where Chandler Can't Remember Which Sister" id="57">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="A drunken Chandler fools around with one of Joey's sisters - but he can't remember which one. Ross becomes skeptical when a guy at the diner gets Rachel an interview for a position at Bloomingdales." />
+          <attvalue for="3" value="Terry Hughes" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="3374" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with All the Jealousy" id="58">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross becomes insanely jealous of Mark. Monica hooks up with a co-worker, who writes her a poem with a hidden meaning. One of Joey's numerous lies on his resume is exposed when he takes part in a Broadway production." />
+          <attvalue for="3" value="Robby Benson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3213" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One Where Monica and Richard Are Just Friends" id="59">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica's willpower is tested when she bumps into Richard. Joey and Rachel exchange their favorite books. Phoebe dates an athletic guy who doesn't realize he has a &quot;wardrobe malfunction&quot;." />
+          <attvalue for="3" value="Robby Benson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3225" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with Phoebe's Ex-Partner" id="60">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe is reunited with her former singing partner who thinks &quot;Smelly Cat&quot; has hit potential; Chandler dates a woman with a prosthetic leg." />
+          <attvalue for="3" value="Robby Benson" />
+          <attvalue for="4" value="7.9" />
+          <attvalue for="5" value="3211" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One Where Ross and Rachel Take a Break" id="61">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross seeks solace at a party after a bitter fight with Rachel and ends up in the arms of another woman; Phoebe's date needs an interpreter to communicate." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3450" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Morning After" id="62">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross is guilt-ridden after sleeping with Chloe and desperately tries to stop Rachel from finding out and when she does, the rest of the gang listen to them argue and end up trapped in Monica's room for the rest of the night." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="9.1" />
+          <attvalue for="5" value="4192" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One Without the Ski Trip" id="63">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica, Chandler, Phoebe and Joey become stuck in the middle of Ross and Rachel's fight following their break-up." />
+          <attvalue for="3" value="Sam Simon" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="3154" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Hypnosis Tape" id="64">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica goes out with a guy who turns out to be a software billionaire. Chandler's stop smoking hypnosis tape has an unexpected side effect. Frank makes a surprise announcement that he is getting married - to a woman twice his age." />
+          <attvalue for="3" value="Robby Benson" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="3268" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Tiny T-Shirt" id="65">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel goes on her first date, after splitting from Ross, with Mark. Joey clashes with his co-star in his new play. Monica continues to date Pete, even though she is still not attracted to him." />
+          <attvalue for="3" value="Terry Hughes" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3147" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Dollhouse" id="66">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica's aunt dies and leaves her an antique dollhouse that she doesn't want Phoebe to play with; Rachel regrets setting up Chandler with her boss, Joanna." />
+          <attvalue for="3" value="Terry Hughes" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3134" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Chick and the Duck" id="67">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey buys a chick for him and Chandler, Pete offers Monica a job at his restaurant but she is undecided if she should accept it. Ross shows his continued feelings for Rachel when he gives up being on TV for her." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="3359" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Screamer" id="68">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross witnesses Rachel's date screaming at people. Meanwhile, Joey becomes upset when Kate is offered a job in Los Angeles; Phoebe refuses to hang up the phone when she is placed on hold by her phone company." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="3185" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with Ross's Thing" id="69">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross seeks medical help when he finds a mysterious skin condition on his backside. Phoebe struggles to choose between two guys; Monica can't decide what to do about Pete when she thinks he is going to propose." />
+          <attvalue for="3" value="Shelley Jensen" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3120" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Ultimate Fighting Champion" id="70">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica struggles to support Pete in his goal to become the Ultimate Fighting Champion. Chandler is uneasy when his boss playfully slaps his butt. Rachel becomes jealous when Ross starts dating a woman that was introduced to him by Phoebe." />
+          <attvalue for="3" value="Robby Benson" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3253" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One at the Beach" id="71">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="While at the beach, Phoebe meets a family friend with links to her past; Ross discovers that Rachel still loves him and must decide between her and Bonnie." />
+          <attvalue for="3" value="Pamela Fryman" />
+          <attvalue for="4" value="8.9" />
+          <attvalue for="5" value="3600" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Jellyfish" id="72">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross chooses between Rachel and his bald-headed girlfriend Bonnie; Joey, Chandler, and Monica have a perilous encounter with a jellyfish at the beach." />
+          <attvalue for="3" value="Shelley Jensen" />
+          <attvalue for="4" value="9.1" />
+          <attvalue for="5" value="4099" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Cat" id="73">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe becomes convinced that the spirit of her dead mother is inside a cat. Chandler and Joey are robbed. Monica goes on a date with a guy from her high school." />
+          <attvalue for="3" value="Shelley Jensen" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3169" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the 'Cuffs" id="74">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica tries to avoid criticism when she caters a party for her mother. Chandler ends up half naked and handcuffed to a chair in Rachel's boss's office. Joey tries to get educated from a salesman trying to sell him a set of encyclopedias." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3185" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Ballroom Dancing" id="75">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey is forced to help Treeger learn how to dance after he threatens to have Monica and Rachel evicted. Phoebe develops a crush on one of her clients. Ross tries to help Chandler quit the gym." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3122" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with Joey's New Girlfriend" id="76">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler develops feelings for Joey's new girlfriend. Ross and Rachel try to make each other jealous with their dates. Phoebe's cold gives her a sexy singing voice." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="3157" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Dirty Girl" id="77">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross's new girlfriend is nearly perfect until he discovers her apartment is very dirty. Chandler buys a better birthday present for Kathy than Joey. Phoebe helps Monica cater an event. Rachel is obsessed at finishing a crossword puzzle by herself." />
+          <attvalue for="3" value="Shelley Jensen" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3238" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One Where Chandler Crosses the Line" id="78">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler is guilt-ridden after kissing Kathy. Ross starts playing the keyboard again and everyone except Phoebe thinks he's terrible. Joey dates someone else while still attached to Kathy." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="3294" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with Chandler in a Box" id="79">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler tries to earn Joey's forgiveness by lying in a wooden box for six hours. Monica accidentally gets ice in her eye and her doctor turns out to be Richard's son and it's discovered Rachel exchanges the gifts she received in the past." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="9.1" />
+          <attvalue for="5" value="4139" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One Where They're Going to Party!" id="80">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica ends up having to choose between a head chef position or the catering business she started with Phoebe. Rachel is close to getting a promotion but tragedy strikes. Chandler and Ross are excited when an old friend is coming to town." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="7.9" />
+          <attvalue for="5" value="3045" />
+        </attvalues>
+      </edge>
+      <edge source="1997" target="The One with the Girl from Poughkeepsie" id="81">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="In order for her kitchen staff to acknowledge her authority, Monica hires Joey so she can fire him in front of them. Chandler unsuccessfully tries to set Rachel up with a co-worker. Ross can't choose between two girls." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3025" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with Phoebe's Uterus" id="82">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Newlyweds Frank and Alice ask Phoebe to be their surrogate. Joey gets a job as a tour guide at Ross's museum. Chandler asks Monica and Rachel for advice on how to sexually satisfy Kathy." />
+          <attvalue for="3" value="David Steinberg" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3210" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with the Embryos" id="83">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe's uterus is examined for implantation of the embryos. Meanwhile, a seemingly harmless game between Chandler and Joey against Monica and Rachel escalates into a full blown contest where the stakes are raised higher and higher." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="9.5" />
+          <attvalue for="5" value="6006" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with Rachel's Crush" id="84">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="After seeing Kathy's play, Chandler becomes convinced she is cheating on him with her co-star. Rachel develops a crush on one of her customers. Monica becomes jealous when she realizes she is no longer the 'hostess'." />
+          <attvalue for="3" value="Dana De Vally Piazza" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3006" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with Joey's Dirty Day" id="85">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey arrives on the set of his latest movie unwashed, after a three-day fishing trip with his dad. Rachel sets up Ross with the niece of her boss. Chandler goes through three phrases to help recover from Kathy cheating on him." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3028" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with All the Rugby" id="86">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler runs into Janice, and finds her more irritating than ever and creates an elaborate plan to break up with her, meanwhile, Ross attempts to learn how to play rugby to impress Emily and Monica obsesses over a electric lighting switch." />
+          <attvalue for="3" value="James Burrows" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3180" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with the Fake Party" id="87">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel organizes a fake good bye party for Emily so she can spend time with Joshua. A side effect from her pregnancy causes Phoebe to have a craving for meat." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="3061" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with the Free Porn" id="88">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler and Joey discover that they're getting a free porn channel on their TV. Monica encourages Ross to tell Emily he loves her just before she leaves for London. Phoebe gets a shock when she visits her OB-GYN." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="3212" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with Rachel's New Dress" id="89">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel has an awkward encounter with Joshua's parents. Phoebe is offered the chance to name one of the triplets. Ross becomes paranoid when Emily goes to London with Susan." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="3011" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with All the Haste" id="90">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross proposes to Emily. Monica and Rachel try to win their apartment back from Chandler and Joey." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="3168" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with All the Wedding Dresses" id="91">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica tries on Emily's wedding dress, and can't stop wearing it. Jealous of Ross's proposal to Emily, Rachel tries to talk Joshua into marriage. Chandler takes Joey to a sleep clinic when he starts snoring." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3110" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with the Invitation" id="92">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="As Ross and Emily send out wedding invitations, he and Rachel each look back on their relationship together while Joey and Chandler look for a purpose in life." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="7.2" />
+          <attvalue for="5" value="3364" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with the Worst Best Man Ever" id="93">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="at first Ross chooses Joey to be his best man but after a mishap at his bachelor party, he decides he wants both Joey and Chandler as his best men. Phoebe's mood swings makes Monica and Rachel nervous." />
+          <attvalue for="3" value="Peter Bonerz" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3052" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with Ross's Wedding" id="94">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="30" />
+          <attvalue for="2" value="Phoebe tries to warn the gang that Rachel is coming to London to tell Ross she still loves him. Ross and Emily's parents get into an argument over the bill for the wedding. Monica and Chandler sleep together. The wedding ends with a gaffe." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="9.2" />
+          <attvalue for="5" value="4217" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One After Ross Says Rachel" id="95">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="A humiliated Emily runs away after Ross says Rachel's name at the altar. Meanwhile, Chandler and Monica struggle to get time alone together." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.9" />
+          <attvalue for="5" value="3609" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with All the Kissing" id="96">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler must constantly kiss the girls to cover up a kiss he gave to Monica to hide their affair. Phoebe gets irritated when the gang constantly talk about London. Rachel puts Monica in charge of her love life. Ross tries to contact Emily." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="9.0" />
+          <attvalue for="5" value="3674" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One Hundredth" id="97">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang take Phoebe to the hospital after she goes into labor. Monica threatens to go on a date with a male nurse after Chandler claims they are &quot;just goofing around.&quot; Joey gets treated for kidney stones." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.8" />
+          <attvalue for="5" value="3331" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One Where Phoebe Hates PBS" id="98">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross finally gets in touch with Emily and they try to work it out. Chandler gloats after Rachel reveals that Monica's secret boyfriend is the best sex she ever had. Phoebe and Joey debate if a selfless good deed exists." />
+          <attvalue for="3" value="Shelley Jensen" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2995" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with the Kips" id="99">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler and Monica go away for the weekend but spend the entire time fighting. Ross tries to tell Rachel about his agreement with Emily." />
+          <attvalue for="3" value="Dana De Vally Piazza" />
+          <attvalue for="4" value="8.8" />
+          <attvalue for="5" value="3215" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with the Yeti" id="100">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang become frustrated with Emily's demands to Ross. Monica and Rachel mistake their new neighbor for a yeti. Phoebe receives a fur coat as a family heirloom from her mother." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="3001" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One Where Ross Moves In" id="101">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross moves in with Chandler and Joey after Emily's cousin kicks him out of his apartment. Phoebe dates a health inspector. Rachel plays hard-to-get with Danny." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="3029" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with All the Thanksgivings" id="102">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang remember and share with each other their worst Thanksgivings." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="9.2" />
+          <attvalue for="5" value="4261" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with Ross's Sandwich" id="103">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey finds himself constantly covering for Chandler and Monica's affair. Ross becomes angry when someone at work eats his sandwich. Phoebe and Rachel enroll in a literature class." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="9.1" />
+          <attvalue for="5" value="3913" />
+        </attvalues>
+      </edge>
+      <edge source="1998" target="The One with the Inappropriate Sister" id="104">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="A bored Ross wreaks havoc in Chandler and Joey's lives. Rachel is uncomfortable with Danny's unusually close relationship with his sister. Phoebe runs into trouble whilst collecting donations for the poor during Christmas." />
+          <attvalue for="3" value="Dana De Vally Piazza" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2980" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with All the Resolutions" id="105">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang make their New Years resolutions. Chandler struggles to not make jokes about everyone. Rachel uncovers a secret. Ross runs into trouble when he wears leather pants on a date." />
+          <attvalue for="3" value="Joe Regalbuto" />
+          <attvalue for="4" value="9.1" />
+          <attvalue for="5" value="3781" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with Chandler's Work Laugh" id="106">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica becomes annoyed at how Chandler sucks up to his boss by mimicking his boss's laugh and laughing at his tasteless jokes. Ross hooks up with Janice when he finds out Emily is getting married." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2949" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with Joey's Bag" id="107">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe's grandmother dies, and is shocked when her father turns up at the funeral. Meanwhile, Rachel gives Joey a &quot;man's bag&quot; for an audition, and Chandler is scared to tell Monica he doesn't like her massages." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="2959" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One Where Everybody Finds Out" id="108">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="When Phoebe finds out about Monica and Chandler, she and Rachel attempt to get them to confess their relationship." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="9.7" />
+          <attvalue for="5" value="8066" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with the Girl Who Hits Joey" id="109">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross makes enemies out of his new neighbors. Chandler freaks out about his relationship with Monica. Joey dates a girl who likes to playfully punch him but she doesn't realize she punches him too hard and Joey is reluctant to tell her." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3125" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with the Cop" id="110">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey has a dream about Monica and becomes convinced he is in love with her. Meanwhile, Phoebe finds a police badge in Central Perk, and Ross tries to get his new sofa into his apartment." />
+          <attvalue for="3" value="Andrew Tsao" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="3174" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with Rachel's Inadvertent Kiss" id="111">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel has an awkward encounter when she interviews for a new job. Monica becomes jealous of Phoebe and Gary. Joey searches for a 'hot girl' in Ross's building." />
+          <attvalue for="3" value="Shelley Jensen" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="2977" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One Where Rachel Smokes" id="112">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel takes up smoking to feel more included at work. Joey auditions for a soup commercial with Ross's son Ben, but they end up competing against each other. Monica and Phoebe plan Rachel's surprise birthday party one month in advance." />
+          <attvalue for="3" value="Todd Holland" />
+          <attvalue for="4" value="8.0" />
+          <attvalue for="5" value="2898" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One Where Ross Can't Flirt" id="113">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="As Joey's grandmother visits to watch him on TV, Ross has trouble flirting with the pizza delivery girl, and Rachel tries to find an earring of Monica's that she has misplaced." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="3242" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with the Ride Along" id="114">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The guys go on a ride-along with Gary. Rachel accidentally deletes a message from Emily on Ross's answering machine." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2888" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with the Ball" id="115">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Gary asks Phoebe to move in with him but she's reluctant to and to overcome boredom, Ross and Joey start throwing a ball to each other. Rachel buys an expensive cat but it doesn't behave as she hoped it would." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3010" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with Joey's Big Break" id="116">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey drives to Las Vegas to shoot to shoot a new movie where he is in the lead role. Rachel gets an eye infection but is reluctant to seek treatment because of her eye phobia. Phoebe is mad at Ross, but doesn't know why." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2857" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One in Vegas: Part 1" id="117">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang go to Las Vegas to visit Joey. Chandler is angry when he finds out Monica had lunch with Richard. Ross and Rachel try to embarrass each other after an awkward encounter." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.8" />
+          <attvalue for="5" value="3282" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One in Vegas: Part 2" id="118">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler and Monica reconcile and hastily decide to get married. Ross and Rachel get drunk and roam the casino. Phoebe deals with a 'lurker' on the slot machines." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="9.1" />
+          <attvalue for="5" value="3726" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One After Vegas" id="119">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross and Rachel deal with the aftermath of their drunken escapade. Phoebe and Joey take a road trip back to New York in Phoebe's grandmother's cab. Monica and Chandler ponder the idea of marriage." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="3175" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One Where Ross Hugs Rachel" id="120">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica and Chandler try to tell Rachel and Joey that they're moving in together. Phoebe thinks that Ross didn't get the annulment because he still loves Rachel." />
+          <attvalue for="3" value="Gail Mancuso" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2883" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with Ross's Denial" id="121">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross tries to deny he still has feelings for Rachel. Joey interviews for a new roommate. Monica and Chandler argue over what to do with the spare room when they move in together." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2851" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One Where Joey Loses His Insurance" id="122">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey's health benefits lapse just as he develops a hernia. Ross is given a professorship at NYU and eager to impress his students, he puts on a fake English accent." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="2976" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with Joey's Porsche" id="123">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross and Rachel try to get an annulment, Joey finds the keys to a porsche in Central Perk, and Phoebe, Monica and Chandler babysit the triplets." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2902" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One on the Last Night" id="124">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="On the last night before Chandler and Monica move in together, Monica and Rachel argue, and Chandler tries to give Joey money to help him pay the bills." />
+          <attvalue for="3" value="David Schwimmer" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="2942" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One Where Phoebe Runs" id="125">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel is embarrassed by Phoebe's odd running style. Joey gets a new roommate. Chandler tries to impress Monica by cleaning the apartment but forgets how everything is supposed to look." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="2959" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with Ross' Teeth" id="126">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross goes too far while trying to impress a date by over-whitening his teeth. Rachel uses gossip to get her boss to like her after Phoebe supposedly makes out with Ralph Lauren." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3074" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One Where Ross Got High" id="127">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross is forced to reveal the reason why Jack and Judy don't like Chandler. Rachel tries to make dessert for the gang. Joey and Ross try to get out of Thanksgiving when they are invited to hang out with Janine and her dancer friends." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="9.2" />
+          <attvalue for="5" value="4187" />
+        </attvalues>
+      </edge>
+      <edge source="1999" target="The One with the Routine" id="128">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="On the set of &quot;Dick Clark's New Year's Rockin' Eve&quot;, Joey tries to kiss Janine at midnight and Monica and Ross resurrect their dance routine from high school. Meanwhile, Rachel, Phoebe and Chandler look for Monica's Christmas presents." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="3139" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with the Apothecary Table" id="129">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey is caught in the middle when Janine tells him she doesn't like Monica and Chandler. Meanwhile, Rachel buys an apothecary table from a store that Phoebe hates." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="2892" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with the Joke" id="130">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler and Ross argue over a joke. Meanwhile, Joey reluctantly takes a waiter job at Central Perk, and Monica becomes annoyed when Phoebe says she would choose Rachel over her as a girlfriend." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="2829" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with Rachel's Sister" id="131">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel's younger sister arrives in New York and goes on a date with Ross. Meanwhile, Monica won't admit that she is sick." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2950" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One Where Chandler Can't Cry" id="132">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel tries to end the spark between Ross and Jill. When Chandler admits that he can't cry, Monica tries to make it happen. The gang discovers that Phoebe's sister, Ursula, is a porn star and is using Phoebe's name." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="2996" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One That Could Have Been" id="133">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="30" />
+          <attvalue for="2" value="The gang continue to think about how different their lives could have been." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3037" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with Unagi" id="134">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel and Phoebe take self-defense classes. Chandler and Monica agree to give each other homemade presents for Valentine's Day. Joey tries to get money through medical research." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="9.1" />
+          <attvalue for="5" value="4180" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One Where Ross Dates a Student" id="135">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross jeopardizes his career when he starts dating a student from one of his palaeontology classes. Rachel and Phoebe's apartment catches fire." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2870" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with Joey's Fridge" id="136">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey tries to get everyone to pay for his broken fridge. Ross becomes paranoid when Elizabeth makes plans for spring break. Monica and Chandler compete against Phoebe to find Rachel a date." />
+          <attvalue for="3" value="Ben Weiss" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2920" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with Mac and C.H.E.E.S.E." id="137">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler forgets to write down a message for Joey when the time of his audition for the lead in a TV show is changed." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="7.4" />
+          <attvalue for="5" value="3096" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One Where Ross Meets Elizabeth's Dad" id="138">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Elizabeth's father takes an instant disliking to Ross. Joey almost gets fired from &quot;Mac and C.H.E.E.S.E.&quot; after offending the operator of the robot. Phoebe writes a book based on Monica and Chandler." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="3063" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One Where Paul's the Man" id="139">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Paul threatens to have Ross fired from the university if he continues to date Elizabeth. The girls put their names down on a waiting list for a wedding venue." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="9.0" />
+          <attvalue for="5" value="3578" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with the Ring" id="140">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler and Phoebe go looking for an engagement ring for Monica. Rachel tries to get Paul to open up to her." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="2980" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with the Proposal" id="141">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="30" />
+          <attvalue for="2" value="Chandler continues to pretend to hate the idea of marriage, unaware Richard wants Monica back. Meanwhile, Rachel and Phoebe discuss their 'back-up' plans." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="9.3" />
+          <attvalue for="5" value="4186" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with Monica's Thunder" id="142">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang celebrate Monica and Chandler's engagement, however Ross and Rachel upstage them by briefly reuniting. Joey tries to dress and act like a nineteen-year-old for an audition." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="3022" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with Rachel's Book" id="143">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica learns her parents have spent her entire wedding fund. Phoebe temporarily moves into Ross's apartment, bringing her massage clients with her. Joey mocks Rachel when he finds an erotic novel she is reading." />
+          <attvalue for="3" value="Michael Lembeck" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2817" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with Phoebe's Cookies" id="144">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica tries to figure out Phoebe's grandmother's secret cookie recipe. Meanwhile, Rachel tries to teach Joey how to sail, and Chandler has an awkward encounter when he tries to bond with Jack." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="2803" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with Rachel's Assistant" id="145">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chaos ensues when Monica and Chandler decide to share each other's secrets. Rachel gets a promotion and interviews for an assistant. Joey is offered the chance to go back on &quot;Days of Our Lives&quot;." />
+          <attvalue for="3" value="David Schwimmer" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="2820" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with the Engagement Picture" id="146">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler struggles to photograph well for his and Monica's engagement picture. Joey teaches Tag how to pick up women, much to Rachel's annoyance. Phoebe and Ross date a couple who are divorcing." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="2785" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with the Nap Partners" id="147">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey and Ross accidentally take a nap together - and much to their dismay, find that they like it. Phoebe and Rachel compete to become Monica's maid of honor." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.9" />
+          <attvalue for="5" value="3369" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with Ross's Library Book" id="148">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross and Chandler discovers that Ross's book is in the section of the library where students go to have sex. Monica and Chandler run into Janice and she immediately invites herself to the ...                See full summary »" />
+          <attvalue for="3" value="David Schwimmer" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="2856" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One Where Chandler Doesn't Like Dogs" id="149">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross struggles to name all 50 states in a game. Joey compromises Rachel's chances with her crush, Tag, during Thanksgiving dinner. Phoebe sneaks a dog into the apartment, making Chandler extremely nervous." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2772" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with All the Candy" id="150">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica makes candy to get to know her neighbours, Rachel and Tag try to hide their relationship at work and Ross buys Phoebe a bike." />
+          <attvalue for="3" value="David Schwimmer" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="2753" />
+        </attvalues>
+      </edge>
+      <edge source="2000" target="The One with the Holiday Armadillo" id="151">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross wants to introduce Ben to Hanukkah. In order to entice Rachel to move back into their refurbished apartment, Phoebe must drive a wedge between Rachel and current roomie Joey." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3014" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with All the Cheesecakes" id="152">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler refuses to give back a cheesecake accidentally delivered to his apartment; Phoebe gets angry with Joey when he blows off dinner with her for a date." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="2936" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One Where They're Up All Night" id="153">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="After the gang head up to the roof to see a passing comet, separate events unfold that lead to them all having a sleepless night." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="2983" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One Where Rosita Dies" id="154">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel breaks Joey's armchair. Phoebe takes a temp job in a call centre. Ross and Monica find out their parents are selling their childhood home." />
+          <attvalue for="3" value="Stephen Prime" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="2819" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One Where They All Turn Thirty" id="155">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel's 30th birthday prompts the rest of the gang to reminisce about their own 30th celebrations." />
+          <attvalue for="3" value="Ben Weiss" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="2976" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with Joey's New Brain" id="156">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey gets an opportunity to rejoin &quot;Days of Our Lives&quot; when his comatose character is implanted with the brain of a female character. Joey approaches her to get some advice on how to play ...                See full summary »" />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="2896" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with the Truth About London" id="157">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler is shocked to find out who Monica really wanted to sleep with the night they first got together. Meanwhile, Rachel gets into trouble with Ross when she teaches Ben practical jokes." />
+          <attvalue for="3" value="David Schwimmer" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="2961" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with the Cheap Wedding Dress" id="158">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica takes the other girls to an overpriced store to choose her wedding dress, briefing them as if they were in the military since bargain-hunters are far more ruthless then Rachel can ...                See full summary »" />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="2758" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with Joey's Award" id="159">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey is nominated for a Soapy Award for his part on Days of Our Lives and Rachel is his date to the ceremony. Joey doesn't win the award but takes someone else's award home. Rachel ...                See full summary »" />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="2793" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with Ross and Monica's Cousin" id="160">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey auditions for a naked role in a big movie; Rachel and Phoebe plan Monica's wedding shower; Ross becomes attracted to his cousin after she visits." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="3155" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with Rachel's Big Kiss" id="161">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel's college friend can't remember a scandalous kiss from the past; Chandler and Ross argue for possession of Val Kilmer's tuxedo." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="2894" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with the Vows" id="162">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica and Chandler are getting married in four weeks and have to write their vows, but neither has a clue what to say, so they reflect on their past." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="7.5" />
+          <attvalue for="5" value="2832" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with Chandler's Dad" id="163">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross and Rachel hit the freeway together when Monica's Porsche shows up again; Chandler and Monica go off to Vegas to find Chandler's estranged dad." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="2822" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with Monica and Chandler's Wedding: Part 1" id="164">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="So close to the wedding, Chandler suddenly realizes the overwhelming meaning of getting married. Meanwhile, Joey acts opposite a famous actor in a movie, but can't bring himself to tell him that he spits when he says his lines." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.9" />
+          <attvalue for="5" value="3178" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with Monica and Chandler's Wedding: Part 2" id="165">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross tries to find Chandler with Phoebe's help. Meanwhile Rachel tries to hinder Monica." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="9.2" />
+          <attvalue for="5" value="3563" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One After I Do" id="166">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang learns that Rachel is pregnant; Joey tries to impress a Broadway director who's dating Chandler's mom; Chandler's shoes make it hard for him to dance." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="3005" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with the Red Sweater" id="167">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica, Phoebe and Joey advise Rachel to tell the father about the pregnancy. Chandler and Ross lose the wedding photos." />
+          <attvalue for="3" value="David Schwimmer" />
+          <attvalue for="4" value="9.1" />
+          <attvalue for="5" value="3470" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One Where Rachel Tells..." id="168">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Even on their honeymoon, Monica is pushy, and is annoyed that Chandler won't jump the line at the airport check-in - especially after the couple in front of them, also on their honeymoon, ...                See full summary »" />
+          <attvalue for="3" value="Sheldon Epps" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="2858" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with the Videotape" id="169">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross and Rachel tell everyone about the night they were together. They have two different stories of how it happened until Ross accidentally reveals that he videotaped it. Not surprisingly, everyone wants to see it." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="9.3" />
+          <attvalue for="5" value="4114" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with Rachel's Date" id="170">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe dates Monica's sous-chef Tim and Monica doesn't fire him for Phoebe's sake. When Phoebe decides to dump Tim, Monica can finally fire him. Rachel has a date with Kash, a co-star on ...                See full summary »" />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="2703" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with the Halloween Party" id="171">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica and Chandler are having a costume party for Halloween. Phoebe bumps into Ursula who is getting married in a week and invites her in return for Ursula's invitation for the wedding. ...                See full summary »" />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="2969" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with the Stain" id="172">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler hires a maid, whom Monica suspects is stealing her clothing; Eric has trouble forgetting Ursula when he breaks up with her to date Phoebe." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="7.9" />
+          <attvalue for="5" value="2766" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with the Stripper" id="173">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler finds out that Monica had a bachelorette party with a stripper, even though they promised not to have bachelor/bachelorette parties. Rachel takes Phoebe along to dinner with ...                See full summary »" />
+          <attvalue for="3" value="David Schwimmer" />
+          <attvalue for="4" value="8.8" />
+          <attvalue for="5" value="3082" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with the Rumor" id="174">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica invites Will, an old school friend of her and Ross over for Thanksgiving dinner, unaware he isn't too fond of Rachel." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="9.3" />
+          <attvalue for="5" value="5291" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with Monica's Boots" id="175">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica's expensive new boots hurt her feet, but she's determined to prove to Chandler that her purchase was worth it; Ben goes to school with Sting's son." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="2765" />
+        </attvalues>
+      </edge>
+      <edge source="2001" target="The One with Ross's Step Forward" id="176">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey wants to take Rachel to dinner on a pretend date to practice his dating skills, but soon develops romantic feelings for her; Monica, Phoebe, and Chandler are addicted to Mrs. Pacman." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.0" />
+          <attvalue for="5" value="2636" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One Where Joey Dates Rachel" id="177">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe gives Chandler and Monica a late wedding present: the game Ms Pac-Man. Chandler plays it all day long to be better than Monica and Phoebe. Rachel misses dressing up for romantic ...                See full summary »" />
+          <attvalue for="3" value="David Schwimmer" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="2871" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One Where Chandler Takes a Bath" id="178">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica turns Chandler on to the concept of taking a bath to relax; Ross and Rachel toss baby names around while deciding whether to learn the baby's sex." />
+          <attvalue for="3" value="Ben Weiss" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="2800" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with the Secret Closet" id="179">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler's very curious about a locked closet, but Monica won't tell him what is inside." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2654" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with the Birthing Video" id="180">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="During Valentine's Day, Chandler discovers the miracle of birth seeing an extremely graphic video." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="2643" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One Where Joey Tells Rachel" id="181">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross freaks out when Joey tells him that he is in love with Rachel because Ross is afraid that they will get married and raise his kid together. Phoebe dates a guy called Don, who she ...                See full summary »" />
+          <attvalue for="3" value="Ben Weiss" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2698" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with the Tea Leaves" id="182">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler and Monica are happy together - their worst problem is his habit to put CDs in the wrong box and their different taste in music. Rachel is desperate to get back on good terms with ...                See full summary »" />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="2674" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One in Massapequa" id="183">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Everyone prepares for the Gellers' 35th wedding anniversary in Long Island; Monica struggles to prepare the perfect toast; Phoebe invites her new boyfriend Parker." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2699" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with Joey's Interview" id="184">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey prepares for his epic interview with Soap Opera Digest, reminiscing about his past acting experiences, his friends and his romantic life." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="7.5" />
+          <attvalue for="5" value="2804" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with the Baby Shower" id="185">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica and Phoebe throw Rachel a baby shower but forget to invite Rachel's mom. Rachel realizes she has no idea how to look after the baby after the birth. Meanwhile, Joey auditions for a job as a host for a new game show called &quot;Bamboozled&quot;, and Chandler and Ross help him practice." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2699" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with the Cooking Class" id="186">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica's restaurant get a bad review. After confronting the critic who wrote it, she decides to join a cooking class, with Joey in tow. Rachel gets jealous when Ross hits it off with a woman at the baby department store." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2690" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One Where Rachel Is Late" id="187">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica and Phoebe bet on when Rachel's baby will be born as the due date comes and goes as Rachel becomes extremely irritable; Chandler falls asleep at Joey's big movie premiere." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2662" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One Where Rachel Has a Baby: Part 1" id="188">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross and Rachel go to the hospital to have their baby, but it's a long labor. They get stuck in a semi-private room, and many other couples come and go before Rachel is ready to deliver - ...                See full summary »" />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.8" />
+          <attvalue for="5" value="2906" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One Where Rachel Has a Baby: Part 2" id="189">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="After Rachel gives birth to her baby, she must confront relationship issues around her." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.9" />
+          <attvalue for="5" value="3150" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One Where No One Proposes" id="190">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel thinks that Joey has proposed to her. Monica and Chandler begin trying to have a baby." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="2939" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One Where Emma Cries" id="191">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler, having trouble getting enough sleep at home, falls asleep in a meeting and accidentally agrees to run his company's Tulsa office." />
+          <attvalue for="3" value="Sheldon Epps" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="2957" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with the Pediatrician" id="192">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey arranges a blind date for Phoebe. Chandler is leaving for Tulsa without Monica, because she has got a great job offer." />
+          <attvalue for="3" value="Roger Christiansen" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2733" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with the Sharks" id="193">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica thinks Chandler is aroused by shark documentaries." />
+          <attvalue for="3" value="Ben Weiss" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2764" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with Phoebe's Birthday Dinner" id="194">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe will celebrate her birthday by having a dinner with her friends at a fancy restaurant. But everybody is late to the dinner, due to a series of problems." />
+          <attvalue for="3" value="David Schwimmer" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="2799" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with the Male Nanny" id="195">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Looking for a new nanny, Ross and Rachel hire a male nanny named Sandy. Monica tells Chandler that a guy at work is the funniest guy she has ever met." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.4" />
+          <attvalue for="5" value="2961" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with Ross's Inappropriate Song" id="196">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross finds a way to make Emma laugh - singing &quot;Baby Got Back.&quot; Meanwhile, Phoebe meets Mike's parents, and Joey and Chandler find a video tape in Richard's apartment." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.7" />
+          <attvalue for="5" value="2971" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with Rachel's Other Sister" id="197">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel's middle sister shows up at Thanksgiving and causes arguments amongst the gang." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.8" />
+          <attvalue for="5" value="3273" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with Rachel's Phone Number" id="198">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel is ready to start hanging out again. She and Phoebe go to a bar, where they meet two guys." />
+          <attvalue for="3" value="Ben Weiss" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2702" />
+        </attvalues>
+      </edge>
+      <edge source="2002" target="The One with Christmas in Tulsa" id="199">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler must spend Christmas in Tulsa, which Monica thinks he might have an affair with a former Miss Oklahoma runner-up while he is there. Chandler comes home early to announce that he quit his job." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="7.5" />
+          <attvalue for="5" value="2804" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One Where Rachel Goes Back to Work" id="200">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler starts looking for a job and is anxious about having a baby, Rachel decides to go back to work, and Phoebe works as an extra on Joey's show." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.0" />
+          <attvalue for="5" value="2601" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with Phoebe's Rats" id="201">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="24" />
+          <attvalue for="2" value="Ross makes Joey stay away from their new nanny. Mike accidentally kills Phoebe's rat. Gavin gives Rachel a scarf and a kiss for her birthday." />
+          <attvalue for="3" value="Ben Weiss" />
+          <attvalue for="4" value="8.0" />
+          <attvalue for="5" value="2688" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One Where Monica Sings" id="202">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="A night at Mike's piano bar gives Monica a very showy moment in the spotlight; Chandler employs his secret skill to repair Joey's botched eyebrow-waxing job." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2685" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with the Blind Dates" id="203">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="24" />
+          <attvalue for="2" value="Phoebe and Joey purposely set Ross and Rachel up on bad dates in the hopes they'll get back together. Monica and Chandler babysit Emma." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2642" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with the Mugging" id="204">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="24" />
+          <attvalue for="2" value="Joey gets a part in a stage-play in a painful way. Ross and Phoebe are mugged outside Central Perk, Phoebe realizes that she mugged Ross 18 years ago. Chandler starts his new career as advertising writer." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2670" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with the Boob Job" id="205">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="When Monica and Chandler both ask Joey for money not wanting the other to know why they are asking for it, Chandler sees that Joey gave money to Monica. Joey makes up that Monica is getting...                See full summary »" />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2588" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with the Memorial Service" id="206">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="When Chandler and Ross joke around on their college website, Ross is accused of being dead which leads to the fact that he was not popular in college. Joey is not willing to give his ...                See full summary »" />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="2713" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with the Lottery" id="207">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="23" />
+          <attvalue for="2" value="Hoping to win a huge jackpot, the friends pool their money and buy dozens of lottery tickets. However, they bicker over how to spend the fortune if they win, and Monica irritates everyone else by buying tickets just for her and Chandler." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="2792" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with Rachel's Dream" id="208">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey is insecure now his Days of Our Lives character Dr. Drake Ramore is getting real dialog, so he asks Rachel to come along to the set, which she loves enough to get romantic dreams, but ...                See full summary »" />
+          <attvalue for="3" value="Terry Hughes" />
+          <attvalue for="4" value="8.1" />
+          <attvalue for="5" value="2616" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with the Soap Opera Party" id="209">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey throws a cast party on the roof of his building where he ends up making out with an attractive professor that Ross had a crush on." />
+          <attvalue for="3" value="Sheldon Epps" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2615" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with the Fertility Test" id="210">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Still unable to conceive, Monica and Chandler decide to get tests done at a fertility clinic, where they run into Chandler's favorite ex, Janice. Rachel receives a gift certificate for a ...                See full summary »" />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2557" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with the Donor" id="211">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="When Joey hears that his girlfriend Charlie is an insecure shopper, he volunteers expert Rachel, who dreads being alone with her, so she makes sure Phoebe comes along, by saying she needs a...                See full summary »" />
+          <attvalue for="3" value="Ben Weiss" />
+          <attvalue for="4" value="7.8" />
+          <attvalue for="5" value="2635" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One in Barbados" id="212">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="To the other friends' fury, it keeps raining except during Ross's speech, which to their amazement is a big hit with the paleontologists. Joey's scientific ignorance decides Charlie to turn...                See full summary »" />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="2844" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One After Joey and Rachel Kiss" id="213">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey and Ross both attempt to come clean to each other that they're dating Rachel and Charlie. Phoebe finds out Mike has another girlfriend." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3113" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One Where Ross Is Fine" id="214">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel and Joey fear for Ross's state of mind after he finds out about their relationship. Chandler and Monica visit some friends of Phoebe to get advice on adoption. Frank and the triplets come to visit." />
+          <attvalue for="3" value="Ben Weiss" />
+          <attvalue for="4" value="8.8" />
+          <attvalue for="5" value="3366" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with Ross's Tan" id="215">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross goes to a tanning salon but fails to follow the 'simple' instructions. Joey and Rachel struggle to make the transition from friends to lovers. Monica and Phoebe try to avoid an annoying woman that used to live in their building." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.8" />
+          <attvalue for="5" value="3277" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with the Cake" id="216">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="On Emma's first birthday, Ross and Rachel convince everyone to delay their plans so they can attend her party, however plans go awry when Emma's birthday cake is revealed." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2825" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One Where Rachel's Sister Babysits" id="217">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Rachel's sister Amy comes to visit and moves in with her and Joey. Phoebe constantly and accidentally ruins Mike's proposals. Joey struggles to write a letter of recommendation for Monica and Chandler's adoption agency." />
+          <attvalue for="3" value="Roger Christiansen" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2812" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with Ross' Grant" id="218">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross applies for a paleontology grant and finds out Charlie's ex-boyfriend reviews the applications. Monica and Rachel fight over who has to take Phoebe's ugly painting." />
+          <attvalue for="3" value="Ben Weiss" />
+          <attvalue for="4" value="8.2" />
+          <attvalue for="5" value="2853" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with the Home Study" id="219">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Monica and Chandler nervously prepare for a visit from an adoption worker. Phoebe and Mike keep changing their minds about donating their wedding money to charity. Ross fights Rachel's fear of swings." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.3" />
+          <attvalue for="5" value="2716" />
+        </attvalues>
+      </edge>
+      <edge source="2003" target="The One with the Late Thanksgiving" id="220">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Joey, Ross, Rachel and Phoebe convince Monica and Chandler to host Thanksgiving, however the four of them end up arriving to dinner an hour late." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.9" />
+          <attvalue for="5" value="3302" />
+        </attvalues>
+      </edge>
+      <edge source="2004" target="The One with the Birth Mother" id="221">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="After Rachel confirms Joey is more mature in relationships, Phoebe presents him to another friend as date, Sarah, who fails alas to respect his primordial rule by touching food in his plate...                See full summary »" />
+          <attvalue for="3" value="David Schwimmer" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="2860" />
+        </attvalues>
+      </edge>
+      <edge source="2004" target="The One Where Chandler Gets Caught" id="222">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chandler and Monica have decided they want to raise their offspring in a suburban house and even find a perfect one in Westchester. Rachel and Phoebe see Chandler enter a car with his ...                See full summary »" />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.0" />
+          <attvalue for="5" value="2748" />
+        </attvalues>
+      </edge>
+      <edge source="2004" target="The One Where the Stripper Cries" id="223">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Old secrets come to light when Ross and Chandler attend a college reunion. Monica and Rachel throw Phoebe a bachelorette party. Joey appears as a celebrity partner on a game show." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="9.0" />
+          <attvalue for="5" value="3684" />
+        </attvalues>
+      </edge>
+      <edge source="2004" target="The One with Phoebe's Wedding" id="224">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Chaos ensues as Phoebe and Mike prepare to get married." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="8.9" />
+          <attvalue for="5" value="3161" />
+        </attvalues>
+      </edge>
+      <edge source="2004" target="The One Where Joey Speaks French" id="225">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Phoebe tries to teach Joey to speak French for an audition; Ross and Rachel head out to Long Island after her dad has a heart attack." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="3044" />
+        </attvalues>
+      </edge>
+      <edge source="2004" target="The One with Princess Consuela" id="226">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="When Phoebe goes to get her name changed she realizes she can change it to anything she wants, so she changes it to Princess Consuela Banana Hammock, to Mike's displeasure. Chandler finds ...                See full summary »" />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.6" />
+          <attvalue for="5" value="2989" />
+        </attvalues>
+      </edge>
+      <edge source="2004" target="The One Where Estelle Dies" id="227">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="Ross tries to get Rachel to go back to Ralph Lauren, Joey doesn't know that his agent has died, and Monica and Chandler bump into Janice." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.5" />
+          <attvalue for="5" value="2771" />
+        </attvalues>
+      </edge>
+      <edge source="2004" target="The One with Rachel's Going Away Party" id="228">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="The gang throws Rachel a goodbye party, during which she says goodbye to everybody individually." />
+          <attvalue for="3" value="Gary Halvorson" />
+          <attvalue for="4" value="8.9" />
+          <attvalue for="5" value="3141" />
+        </attvalues>
+      </edge>
+      <edge source="2004" target="The Last One" id="229">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="30" />
+          <attvalue for="2" value="Phoebe races Ross to the airport in a bid to stop Rachel from leaving for Paris. Monica and Chandler pack up their apartment ahead of their move to their new house, and Joey buys Chandler a new chick and duck as a leaving present." />
+          <attvalue for="3" value="Kevin Bright" />
+          <attvalue for="4" value="9.7" />
+          <attvalue for="5" value="10381" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
